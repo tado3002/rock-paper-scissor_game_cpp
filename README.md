@@ -17,6 +17,7 @@ Ini adalah game sederhana Batu Kertas Gunting yang dibuat menggunakan bahasa C++
    * 3 untuk Gunting
 4. Komputer akan memilih secara acak.
 5. Hasil permainan setiap ronde akan ditampilkan.
+6. Menampilkan hasil keseluruhan pertandingan.
 
 **Fitur:**
 
@@ -27,6 +28,7 @@ Ini adalah game sederhana Batu Kertas Gunting yang dibuat menggunakan bahasa C++
   -- Antarmuka pengguna sederhana: Tampilan teks yang mudah dipahami.
 
   -- History permainan: Menampilkan hasil recap keseluruhan permainan.
+  
 
 **Cara Membangun:**
 
@@ -38,18 +40,22 @@ Ini adalah game sederhana Batu Kertas Gunting yang dibuat menggunakan bahasa C++
 3. **Jalankan script:**
    ./bkg
 
+
 **Teknologi yang Digunakan:**
 
 Bahasa pemrograman: C++
 Kompiler: g++ (atau kompiler C++ lainnya)
 
+
 **Kontributor:**
 
 Muhammad-Murtadlo - Pengembang utama
 
+
 **Disclaimer:**
 
 Proyek ini dibuat untuk tujuan pembelajaran dan eksperimen.
+
 
 **Masukan:**
 
