@@ -1,7 +1,6 @@
 # rock-paper-scissor-game
 Latihan pemrograman C++ dengan membuat game BKG yang interaktif
 
-**1. Markdown**
 # Game Batu Kertas Gunting (BKG)
 
 **Deskripsi:**
@@ -19,11 +18,15 @@ Ini adalah game sederhana Batu Kertas Gunting yang dibuat menggunakan bahasa C++
 4. Komputer akan memilih secara acak.
 5. Hasil permainan setiap ronde akan ditampilkan.
 
->> Fitur:
+**Fitur:**
 
   -- Mode pemain tunggal: Bermain melawan komputer.
+  
   -- Pilihan acak komputer: Komputer memilih secara acak di setiap ronde.
+  
   -- Antarmuka pengguna sederhana: Tampilan teks yang mudah dipahami.
+
+  -- History permainan: Menampilkan hasil recap keseluruhan permainan.
 
 **Cara Membangun:**
 
@@ -35,22 +38,20 @@ Ini adalah game sederhana Batu Kertas Gunting yang dibuat menggunakan bahasa C++
 3. **Jalankan script:**
    ./bkg
 
-Teknologi yang Digunakan:
+**Teknologi yang Digunakan:**
 
 Bahasa pemrograman: C++
 Kompiler: g++ (atau kompiler C++ lainnya)
-Kontributor:
 
-[Nama Anda] - Pengembang utama
-Lisensi:
+**Kontributor:**
 
-[Tambahkan lisensi yang Anda gunakan, misalnya MIT]
+Muhammad-Murtadlo - Pengembang utama
 
-Disclaimer:
+**Disclaimer:**
 
 Proyek ini dibuat untuk tujuan pembelajaran dan eksperimen.
 
-Masukan:
+**Masukan:**
 
 Jika Anda memiliki masukan atau ingin berkontribusi, jangan ragu untuk membuka issue atau pull request.
 
